@@ -1,4 +1,4 @@
-<div id="rec442612394" class="r t-rec r_showed r_anim" style=" " data-record-type="215"><a name="services"
+<div id="rec442612394" class="r t-rec  r_anim" style=" " data-record-type="215"><a name="services"
                     style="font-size:0;"></a></div>
             <div id="rec442612382" class="r t-rec t-rec_pt_120 t-rec_pb_120"
                 style="padding-top:120px;padding-bottom:120px;background-color:#f5f5f5; " data-record-type="490"
@@ -15,7 +15,7 @@
                     </div>
                     <div class="t-container">
                         <div class="t490__col t-col t-col_4 t-align_center t-item"> <a class="t490__linkwrapper"
-                                href="http://powercloud.ws/" target=""> <img src="/src/assets/smartphone.png"
+                                href="/" target=""> <img src="/src/assets/smartphone.png"
                                     data-original="https://static.tildacdn.info/tild3131-3337-4536-a633-343238653962/smartphone.png"
                                     class="t490__img t-img" imgfield="li_img__1476968690512" style="width:120px;">
                                 <div class="t490__wrappercenter ">
@@ -27,7 +27,7 @@
                                 </div>
                             </a> </div>
                         <div class="t490__col t-col t-col_4 t-align_center t-item"> <a class="t490__linkwrapper"
-                                href="http://powercloud.ws/" target=""> <img src="/src/assets/cloud.png"
+                                href="/" target=""> <img src="/src/assets/cloud.png"
                                     data-original="https://static.tildacdn.info/tild6364-3265-4165-b065-346532346165/cloud.png"
                                     class="t490__img t-img" imgfield="li_img__1476968700508" style="width:120px;">
                                 <div class="t490__wrappercenter ">
@@ -40,7 +40,7 @@
                                 </div>
                             </a> </div>
                         <div class="t490__col t-col t-col_4 t-align_center t-item"> <a class="t490__linkwrapper"
-                                href="http://powercloud.ws/" target=""> <img src="/src/assets/omnichannel-merchand.png"
+                                href="/" target=""> <img src="/src/assets/omnichannel-merchand.png"
                                     data-original="https://static.tildacdn.info/tild3738-6639-4665-a361-636466333965/omnichannel-merchand.png"
                                     class="t490__img t-img" imgfield="li_img__1476968722790" style="width:120px;">
                                 <div class="t490__wrappercenter ">
@@ -53,7 +53,7 @@
                             </a> </div>
                         <div class="t-clear t490__separator" style="margin-bottom:80px;"></div>
                         <div class="t490__col t-col t-col_4 t-align_center t-item"> <a class="t490__linkwrapper"
-                                href="http://powercloud.ws/" target=""> <img src="/src/assets/data_1.png"
+                                href="/" target=""> <img src="/src/assets/data_1.png"
                                     data-original="https://static.tildacdn.info/tild3762-6133-4138-b836-633930373936/data_1.png"
                                     class="t490__img t-img" imgfield="li_img__1487764083609" style="width:120px;">
                                 <div class="t490__wrappercenter ">
@@ -65,7 +65,7 @@
                                 </div>
                             </a> </div>
                         <div class="t490__col t-col t-col_4 t-align_center t-item"> <a class="t490__linkwrapper"
-                                href="http://powercloud.ws/" target=""> <img src="/src/assets/data.png"
+                                href="/" target=""> <img src="/src/assets/data.png"
                                     data-original="https://static.tildacdn.info/tild3838-3039-4662-a437-626261346236/data.png"
                                     class="t490__img t-img" imgfield="li_img__1487764085275" style="width:120px;">
                                 <div class="t490__wrappercenter ">
@@ -80,7 +80,7 @@
                                 </div>
                             </a> </div>
                         <div class="t490__col t-col t-col_4 t-align_center t-item"> <a class="t490__linkwrapper"
-                                href="http://powercloud.ws/" target=""> <img src="/src/assets/shopping-cart.png"
+                                href="/" target=""> <img src="/src/assets/shopping-cart.png"
                                     data-original="https://static.tildacdn.info/tild3165-3265-4337-b866-366563626631/shopping-cart.png"
                                     class="t490__img t-img" imgfield="li_img__1487764087052" style="width:120px;">
                                 <div class="t490__wrappercenter ">
@@ -95,7 +95,7 @@
                     <div class="t-section__container t-container">
                         <div class="t-col t-col_12">
                             <div class="t-section__bottomwrapper t-clear t-align_center "><a
-                                    href="http://powercloud.ws/#contacts" target="" class="t-btn"
+                                    href="/#contacts" target="" class="t-btn"
                                     style="color:#0000ff;border:2px solid #0000ff;border-radius:30px; -moz-border-radius:30px; -webkit-border-radius:30px;">
                                     <table style="width:100%; height:100%;">
                                         <tbody>

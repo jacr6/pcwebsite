@@ -1,6 +1,6 @@
-<div id="rec442645659" class="r t-rec r_hidden r_anim" style=" " data-record-type="215"><a name="whyus"
+<div id="rec442645659" class="r t-rec  r_anim" style=" " data-record-type="215"><a name="whyus"
                     style="font-size:0;"></a></div>
-            <div id="rec442612389" class="r t-rec t-rec_pt_120 t-rec_pb_120 r_hidden r_anim"
+            <div id="rec442612389" class="r t-rec t-rec_pt_120 t-rec_pb_120  r_anim"
                 style="padding-top:120px;padding-bottom:120px; " data-record-type="512">
                 <!-- t512 -->
                 <div class="t512">
@@ -9,7 +9,7 @@
                             <div class="t-section__topwrapper t-align_center">
                                 <div class="t-section__title t-title t-title_xs" field="btitle">¿Porque escogernos como
                                     su
-                                    proveedor de confianza?</div>
+                                    proveedor de <br>confianza?</div>
                             </div>
                         </div>
                     </div>

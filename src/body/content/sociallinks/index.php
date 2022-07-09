@@ -1,4 +1,11 @@
 <div class="t-sociallinks">
+<a href="https://wa.me/584143168607">
+                                            +58 414-3168607
+                                        </a>
+                                        <br>
+                                        <a href="mailto:sales@powercloud.ws">
+                                            sales@powercloud.ws
+                                        </a>
                                         <div class="t-sociallinks__wrapper">
                                             <div class="t-sociallinks__item"> <a
                                                     href="https://www.facebook.com/profile.php?id=100080505775640"

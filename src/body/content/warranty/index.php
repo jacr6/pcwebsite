@@ -1,6 +1,6 @@
-<div id="rec442645813" class="r t-rec r_hidden r_anim" style=" " data-record-type="215"><a name="warranty"
+<div id="rec442645813" class="r t-rec  r_anim" style=" " data-record-type="215"><a name="warranty"
                     style="font-size:0;"></a></div>
-            <div id="rec442612383" class="r t-rec r_hidden r_anim" style=" " data-record-type="581">
+            <div id="rec442612383" class="r t-rec  r_anim" style=" " data-record-type="581">
                 <!-- cover -->
                 <div class="t-cover" id="recorddiv442612383" bgimgfield="img"
                     style="height:80vh; background-image:url(&#39;https://static.tildacdn.info/tild3461-6461-4263-a466-613034623538/-/resize/20x/f383cc5c823c814aa359.jpg&#39;);">
@@ -26,7 +26,7 @@
                                                 por nosotros, garantizamos un 30% de mejoras en el proceso</div>
                                             <div class="t581__buttons">
                                                 <div class="t581__buttons-wrapper t-margin_auto"> <a
-                                                        href="http://powercloud.ws/#contacts" target=""
+                                                        href="/#contacts" target=""
                                                         class="t581__btn t-btn "
                                                         style="color:#0000ff;background-color:#ffffff;border-radius:100px; -moz-border-radius:100px; -webkit-border-radius:100px;">
                                                         <table style="width:100%; height:100%;">

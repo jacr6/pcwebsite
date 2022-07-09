@@ -1,4 +1,4 @@
-<link rel="canonical" href="http://powercloud.ws/">
+<link rel="canonical" href="/">
     <link rel="shortcut icon" href="/src/assets/powercloud.png" type="image/x-icon">
 <link rel="stylesheet" href="/src/assets/tilda-grid-3.0.min.css" type="text/css" media="all"
         onerror="this.loaderr=&#39;y&#39;;">
