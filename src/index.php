@@ -1,7 +1,10 @@
+
+    <!DOCTYPE html> 
+<html>
 <?php
-      include "header/index.php";
-      include "body/index.php";
-      include "content/index.php";
-      include "footer/index.php";
-      
+      include "src/header/index.php";
+      include "src/body/index.php";
+      include "src/scripts/index.php";
+      include "src/styles/index.php";
     ?>
+</html>

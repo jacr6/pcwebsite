@@ -1,24 +1,31 @@
-<script type="text/javascript" async="" id="tildastatscript" src="/index_files/tilda-stat-1.0.min.js"></script>
-    <script src="/index_files/tilda-fallback-1.0.min.js" charset="utf-8" async=""></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.js"></script>
-    <script src="/index_files/jquery-1.10.2.min.js" onerror="this.loaderr=&#39;y&#39;;"></script>
 
-    <script src="/index_files/tilda-scripts-3.0.min.js" onerror="this.loaderr=&#39;y&#39;;"></script>
-    <script src="/index_files/tilda-blocks-2.7.js" onerror="this.loaderr=&#39;y&#39;;"></script>
-    <script src="/index_files/lazyload-1.3.min.js" charset="utf-8" async=""
+    <script src="/src/assets/jquery-1.10.2.min.js" onerror="this.loaderr=&#39;y&#39;;"></script>
+
+    
+<script type="text/javascript" async="" id="tildastatscript" src="/src/assets/tilda-stat-1.0.min.js"></script>
+    <script src="/src/assets/tilda-fallback-1.0.min.js" charset="utf-8" async=""></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.js"></script>
+
+    <script src="/src/assets/tilda-scripts-3.0.min.js" onerror="this.loaderr=&#39;y&#39;;"></script>
+    <script src="/src/assets/tilda-blocks-2.7.js" onerror="this.loaderr=&#39;y&#39;;"></script>
+    <script src="/src/assets/lazyload-1.3.min.js" charset="utf-8" async=""
         onerror="this.loaderr=&#39;y&#39;;"></script>
-    <script src="/index_files/tilda-animation-1.0.min.js" charset="utf-8" async=""
+    <script src="/src/assets/tilda-animation-1.0.min.js" charset="utf-8" async=""
         onerror="this.loaderr=&#39;y&#39;;"></script>
-    <script src="/index_files/tilda-cover-1.0.min.js" charset="utf-8" async=""
+    <script src="/src/assets/tilda-cover-1.0.min.js" charset="utf-8" async=""
         onerror="this.loaderr=&#39;y&#39;;"></script>
-    <script src="/index_files/tilda-events-1.0.min.js" charset="utf-8" async=""
+    <script src="/src/assets/tilda-events-1.0.min.js" charset="utf-8" async=""
         onerror="this.loaderr=&#39;y&#39;;"></script>
-    <script src="/index_files/tilda-menusub-1.0.min.js" charset="utf-8" async=""
+    <script src="/src/assets/tilda-menusub-1.0.min.js" charset="utf-8" async=""
         onerror="this.loaderr=&#39;y&#39;;"></script>
-    <script src="/index_files/tilda-map-1.0.min.js" charset="utf-8" async=""
+    <script src="/src/assets/tilda-map-1.0.min.js" charset="utf-8" async=""
         onerror="this.loaderr=&#39;y&#39;;"></script>
     <script type="text/javascript">window.dataLayer = window.dataLayer || [];</script>
-    <script type="text/javascript">(function () {
+    
+    
+    <script type="text/javascript">
+    
+    (function () {
             if ((/bot|google|yandex|baidu|bing|msn|duckduckbot|teoma|slurp|crawler|spider|robot|crawling|facebook/i.test(navigator.userAgent)) === false && typeof (sessionStorage) != 'undefined' && sessionStorage.getItem('visited') !== 'y' && document.visibilityState) {
                 var style = document.createElement('style');
                 style.type = 'text/css';
@@ -38,9 +45,8 @@
                 }
                 document.addEventListener('DOMContentLoaded', t_setvisRecs);
             }
-        })();</script>
-    <!-- GetButton.io widget -->
-    <script type="text/javascript">
+        })(); 
+
         (function () {
             var options = {
                 facebook: "100080505775640", // Facebook page ID
@@ -57,9 +63,7 @@
             s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
             var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
         })();
-    </script>
-    <!-- /GetButton.io widget -->
-<script> var t446__doResize;
+     var t446__doResize;
                     t_onFuncLoad('t446_checkOverflow', function () {
                         window.addEventListener('resize', t_throttle(function () {
                             t446_checkOverflow('442612379', '100');
@@ -125,8 +129,7 @@
                                 t448_setHeight('442612380');
                             }));
                         });
-                    });</script>
-                       <script type="text/javascript">
+                    }); 
 
 $(document).ready(function () {
 
