@@ -14,8 +14,8 @@
          
                   <?php
                   
-                  include "src/menu/index.php";
-                  include "src/rigthwrapper/index.php";
+                  include "src/body/content/navbar/menu/index.php";
+                  include "src/body/content/navbar/rigthwrapper/index.php";
                  
                   
                   ?>

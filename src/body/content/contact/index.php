@@ -6,7 +6,7 @@
                     <div class="t-width t-width_100 t570__mainblock" style="margin:0 auto; background-color:#0000ff;">
                         <div class="t-map-lazyload t570__map t570__col" data-maplazy-load="false">
                             <div class="t-map"  
-                                style="width: 100%; ">
+                                style="width: 100%;height: 80%; ">
                                 <script type="text/javascript"
                                     src="https://form.jotform.com/jsform/221886418012050"></script>
                             </div>
@@ -29,7 +29,7 @@
                                     </div> 
                                    <?php
                                    
-                                   include "src/sociallinks/index.php";
+                                   include "src/body/content/sociallinks/index.php";
                                    
                                    ?>
                                 </div>

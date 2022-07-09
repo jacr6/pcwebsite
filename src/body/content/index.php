@@ -10,6 +10,7 @@
           <?php
           include "src/body/content/mobile/index.php";
           include "src/body/content/navbar/index.php";
+          
           include "src/body/content/intro/index.php";
           include "src/body/content/carousel/index.php";
            
