@@ -16,5 +16,5 @@ ErrorDocument 404 https://errors.infinityfree.net/errors/404/
 ErrorDocument 500 https://errors.infinityfree.net/errors/500/
 
 RewriteEngine On
-RewriteCond %{REQUEST_URI}  !(\.png|\.jpg|\.webp|\.gif|\.jpeg|\.zip|\.css|\.svg|\.js)$
+RewriteCond %{REQUEST_URI}  !(\.png|\.jpg|\.webp|\.gif|\.jpeg|\.zip|\.css|\.svg|\.js|\.pdf)$
 RewriteRule (.*) index.php [QSA,L]
