@@ -7,7 +7,7 @@
 <meta property="og:title" content="Powered by the sky">
 <meta property="og:description" content="A landing page of a Powered by the sky">
 <meta property="og:type" content="website">
-<meta property="og:image" content="/src/assets/powercloud.png">
+<meta property="og:image" content="/assets/powercloud.png">
 <!--/metatextblock-->
 <meta property="fb:app_id" content="257953674358265">
 <meta name="format-detection" content="telephone=no">
