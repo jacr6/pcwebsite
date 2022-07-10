@@ -5,7 +5,7 @@
           <!-- T446 -->
           <?php
           include "src/pages/landing/body/content/mobile/index.php";
-          include "src/pages/landing/body/content/navbar/index.php";
+          include "src/components/navbar/index.php";
           include "src/pages/landing/body/content/intro/index.php";
          
             ?>

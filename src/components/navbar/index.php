@@ -1,4 +1,8 @@
-<div id="nav442612379" class="t446 t446__hidden t446__positionabsolute "
+<div style=" 
+    background-color: rgba(255,255,255,100.0);
+    height: 100px;
+    position: fixed;
+" id="nav442612379" class="t446 t446__hidden t446__positionabsolute "
     style="background-color: rgba(255,255,255,0.0); height:100px; " data-bgcolor-hex="#ffffff"
     data-bgcolor-rgba="rgba(255,255,255,0.0)" data-navmarker="nav442612379marker" data-appearoffset=""
     data-bgopacity-two="100" data-menushadow="10" data-bgopacity="0.0"
@@ -8,8 +12,8 @@
 
         <?php
                   
-                  include "src/pages/frontpage/body/content/navbar/menu/index.php";
-                  include "src/pages/frontpage/body/content/navbar/rigthwrapper/index.php";
+                  include "src/components/navbar/menu/index.php";
+                  include "src/components/navbar/rigthwrapper/index.php";
                  
                   
                   ?>
