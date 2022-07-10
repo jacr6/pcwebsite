@@ -277,4 +277,19 @@ if (window.addEventListener) {
 } else if (window.attachEvent) {
     window.attachEvent("onmessage", handleIFrameMessage);
 }
+
+
+window.addEventListener("load", function() {
+    //setTimeout() method sets a timer which executes a function once the timer expires
+    setTimeout(
+        function open(event) {
+            document.querySelector(".popup").style.display = "block";
+        },
+        500 // 1 seconds = 1000 milliseconds
+    )
+});
+//Activate the cancel button
+document.querySelector("#close").addEventListener("click", function() {
+    document.querySelector(".popup").style.display = "none";
+});
 </script>

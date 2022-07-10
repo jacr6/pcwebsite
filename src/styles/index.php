@@ -114,4 +114,57 @@ body {
 .owl-carousel {
     margin-bottom: 15px;
 }
+
+
+
+
+*,
+*:before,
+*:after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.popup {
+    background-color: #ffffff;
+    width: 50%;
+    padding: 30px 40px;
+    position: fixed;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+    border-radius: 8px;
+    font-family: "Poppins", sans-serif;
+    display: none;
+    text-align: center;
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, .2);
+    z-index: 1;
+}
+
+
+.popup button {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 10px 10px auto;
+    background-color: transparent;
+    font-size: 30px;
+    color: #ffffff;
+    background: #ffffff;
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.popup p {
+    font-size: 14px;
+    text-align: justify;
+    margin: 20px 0;
+    line-height: 25px;
+}
 </style>

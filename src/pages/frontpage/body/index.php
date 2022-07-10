@@ -1,6 +1,5 @@
-
 <body class="t-body" style="margin: 0px;">
-  <?php
+    <?php
   
   include "src/pages/frontpage/body/content/index.php";
   ?>

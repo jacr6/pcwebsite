@@ -6,13 +6,14 @@
           <?php
           include "src/pages/frontpage/body/content/mobile/index.php";
           include "src/components/navbar/index.php";
+          // include "src/components/popup/index.php";
           include "src/pages/frontpage/body/content/intro/index.php";
           include "src/pages/frontpage/body/content/carousel/index.php";
-            include "src/pages/frontpage/body/content/services/index.php";
-            include "src/pages/frontpage/body/content/warranty/index.php";
-            include "src/pages/frontpage/body/content/methodology/index.php";
-            include "src/pages/frontpage/body/content/whyus/index.php";
-            include "src/pages/frontpage/body/content/contact/index.php";
-            ?>
+          include "src/pages/frontpage/body/content/services/index.php";
+          include "src/pages/frontpage/body/content/warranty/index.php";
+          include "src/pages/frontpage/body/content/methodology/index.php";
+          include "src/pages/frontpage/body/content/whyus/index.php";
+          include "src/pages/frontpage/body/content/contact/index.php";
+          ?>
       </div>
   </div>
