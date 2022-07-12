@@ -7,7 +7,7 @@
         <div class="t-section__container t-container">
             <div class="t-col t-col_12">
                 <div class="t-section__topwrapper t-align_center">
-                    <div class="t-section__title t-title t-title_xs" field="btitle">¿Porque escogernos como
+                    <div class="t-section__title t-title t-title_xs" field="btitle">¿Por qué escogernos como
                         su
                         proveedor de <br>confianza?</div>
                 </div>
