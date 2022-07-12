@@ -1,6 +1,4 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
-<style>
+ <style>
 @media screen and (max-width: 980px) {
     #rec442612379 .t446__leftcontainer {
         padding: 20px;
@@ -16,8 +14,8 @@
         }
     }
 }
-</style>
-<style>
+ </style>
+ <style>
 #rec442612379 .t-menu__link-item {
     position: relative;
 }
@@ -54,8 +52,8 @@
         opacity: 1 !important;
     }
 }
-</style>
-<style>
+ </style>
+ <style>
 @media screen and (max-width: 980px) {
     #rec442612379 .t-menusub__menu .t-menusub__link-item {
         color: #000000 !important;
@@ -65,8 +63,8 @@
         color: #000000 !important;
     }
 }
-</style>
-<style>
+ </style>
+ <style>
 .stretch-card>.card {
     width: 100%;
     min-width: 100%
@@ -169,4 +167,4 @@ body {
     margin: 20px 0;
     line-height: 25px;
 }
-</style>
+ </style>
