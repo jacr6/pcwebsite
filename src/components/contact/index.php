@@ -19,7 +19,7 @@
 
                         <?php
                                    
-                                   include "src/pages/landing/body/content/contact/sociallinks/index.php";
+                                   include "src/components/contact/sociallinks/index.php";
                                    
                                    ?>
                     </div>

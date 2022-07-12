@@ -13,7 +13,7 @@
           include "src/pages/frontpage/body/content/warranty/index.php";
           include "src/pages/frontpage/body/content/methodology/index.php";
           include "src/pages/frontpage/body/content/whyus/index.php";
-          include "src/pages/frontpage/body/content/contact/index.php";
+          include "src/components/contact/index.php";
           ?>
       </div>
   </div>

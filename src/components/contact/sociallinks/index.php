@@ -4,8 +4,7 @@
 
             +58 414-3168607
         </a>
-    </div>
-    <div class="t446__right_descr" style="color:#000000;font-size:20px;font-weight:300;">
+        <br>
         <a href="mailto:sales@powercloud.ws" target="_blank">
             sales@powercloud.ws
         </a>
