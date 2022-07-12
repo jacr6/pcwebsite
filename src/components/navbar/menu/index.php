@@ -13,9 +13,9 @@
             <li class="t446__list_item" style="padding:0 12px;"><a class="t-menu__link-item" href="/#whyus"
                     data-menu-submenu-hook="" style="color:#000000;font-size:17px;font-weight:200;"
                     data-menu-item-number="4">¿Por qué Nosotros?</a> </li>
-            <li class="t446__list_item" style="padding:0 12px;"><a class="t-menu__link-item" href="/#contacts"
+            <!-- <li class="t446__list_item" style="padding:0 12px;"><a class="t-menu__link-item" href="/#contacts"
                     data-menu-submenu-hook="" style="color:#000000;font-size:17px;font-weight:200;"
-                    data-menu-item-number="5">Contacto</a> </li>
+                    data-menu-item-number="5">Contacto</a> </li> -->
         </ul>
     </div>
 </div>

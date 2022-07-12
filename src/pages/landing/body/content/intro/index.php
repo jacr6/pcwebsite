@@ -4,14 +4,14 @@
 
     <div class="t448 t448__no-overflow" data-crop-image="on" style="height: 1234px;">
         <div class="t-cover" id="recorddiv442612380" bgimgfield="img"
-            style="height:100vh; background-image:url(&#39;https://static.tildacdn.info/tild3266-6634-4364-a333-323864363030/-/resize/20x/backgr_white.png&#39;);">
+            style="height:100vh; background-image:url('https://static.tildacdn.info/tild3266-6634-4364-a333-323864363030/-/resize/20x/backgr_white.png');">
             <div class="t-cover__carrier loaded" id="coverCarry442612380" data-content-cover-id="442612380"
                 data-content-cover-bg="https://static.tildacdn.info/tild3266-6634-4364-a333-323864363030/backgr_white.png"
                 data-content-cover-height="100vh" data-content-cover-parallax=""
                 style="height: 100vh; background-attachment: scroll; transform: initial; background-image: url(&quot;https://thumb.tildacdn.com/tild3266-6634-4364-a333-323864363030/-/format/webp/backgr_white.png&quot;);">
             </div>
             <div class="t-cover__filter"
-                style="height:100vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.0), rgba(20,20,20,0.0));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.0), rgba(20,20,20,0.0));background-image: -o-linear-gradient(top, rgba(0,0,0,0.0), rgba(20,20,20,0.0));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.0), rgba(20,20,20,0.0));background-image: linear-gradient(top, rgba(0,0,0,0.0), rgba(20,20,20,0.0));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=&#39;#fe000000&#39;, endColorstr=&#39;#fe141414&#39;);">
+                style="height:100vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.0), rgba(20,20,20,0.0));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.0), rgba(20,20,20,0.0));background-image: -o-linear-gradient(top, rgba(0,0,0,0.0), rgba(20,20,20,0.0));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.0), rgba(20,20,20,0.0));background-image: linear-gradient(top, rgba(0,0,0,0.0), rgba(20,20,20,0.0));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#fe000000', endColorstr='#fe141414');">
             </div>
             <div class="t-container">
                 <div class="t-col t-col_12">
