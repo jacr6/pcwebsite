@@ -1,5 +1,5 @@
 <div style=" 
-    background-color: rgba(255,255,255,100.0);
+    background-color: #ffffff;
     height: 100px;
     position: fixed;
 " id="nav442612379" class="t446 t446__hidden t446__positionabsolute "
