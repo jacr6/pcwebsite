@@ -9,12 +9,10 @@
 ##################################################
 
 
-DirectoryIndex index.php
-
-ErrorDocument 403 https://errors.infinityfree.net/403/
-ErrorDocument 404 https://errors.infinityfree.net/errors/404/
-ErrorDocument 500 https://errors.infinityfree.net/errors/500/
+#DirectoryIndex index.php
+ 
 
 RewriteEngine On
+RewriteRule ^(crm)($|/) - [L]
 RewriteCond %{REQUEST_URI}  !(\.png|\.jpg|\.webp|\.gif|\.jpeg|\.zip|\.css|\.svg|\.js|\.pdf)$
 RewriteRule (.*) index.php [QSA,L]

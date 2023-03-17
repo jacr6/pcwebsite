@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html manifest="demo .appcache ">
 <?php
       include "src/header/index.php";
       include "src/pages/frontpage/body/index.php";
