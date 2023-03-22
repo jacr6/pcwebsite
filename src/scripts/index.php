@@ -52,7 +52,7 @@ window.dataLayer = window.dataLayer || [];
     var options = {
         facebook: "100080505775640", // Facebook page ID
         link: "https://lnk.bio/powercloud", // Link
-        whatsapp: "+58 414-3168607", // WhatsApp number
+        whatsapp: "+58 424-194-3484", // WhatsApp number
         email: "sales.powercloud.gmail.com", // Email
         call_to_action: "Envíanos un mensaje", // Call to action
         button_color: "#FF6550", // Color of button
