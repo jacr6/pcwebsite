@@ -17,7 +17,7 @@
                                     implementado
                                     por nosotros, garantizamos un 30% de mejoras en el proceso</div>
                                 <div class="t581__buttons">
-                                    <div class="t581__buttons-wrapper t-margin_auto"> <a href="https://wa.me/584143168607" target="_blank" class="t581__btn t-btn " style="color:#0000ff;background-color:#ffffff;border-radius:100px; -moz-border-radius:100px; -webkit-border-radius:100px;">
+                                    <div class="t581__buttons-wrapper t-margin_auto"> <a href="https://wa.me/584241943484" target="_blank" class="t581__btn t-btn " style="color:#0000ff;background-color:#ffffff;border-radius:100px; -moz-border-radius:100px; -webkit-border-radius:100px;">
                                             <table style="width:100%; height:100%;">
                                                 <tbody>
                                                     <tr>

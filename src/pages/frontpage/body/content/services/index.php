@@ -87,7 +87,7 @@
         </div>
         <div class="t-section__container t-container">
             <div class="t-col t-col_12">
-                <div class="t-section__bottomwrapper t-clear t-align_center "><a href="https://wa.me/584143168607" target="_blank"
+                <div class="t-section__bottomwrapper t-clear t-align_center "><a href="https://wa.me/584241943484" target="_blank"
                         class="t-btn"
                         style="color:#0000ff;border:2px solid #0000ff;border-radius:30px; -moz-border-radius:30px; -webkit-border-radius:30px;">
                         <table style="width:100%; height:100%;">
