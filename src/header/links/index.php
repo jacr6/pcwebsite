@@ -1,5 +1,5 @@
 <link rel="canonical" href="/">
-<link rel="shortcut icon" href="/assets/powercloud.png" type="image/x-icon">
+<link rel="icon" href="/assets/powercloud.png" type="image/x-icon">
 <link rel="stylesheet" href="/assets/tilda-grid-3.0.min.css" type="text/css" media="all" onerror="this.loaderr='y';">
 <link rel="stylesheet" href="/assets/tilda-blocks-2.14.css" type="text/css" media="all" onerror="this.loaderr='y';">
 <link rel="preconnect" href="https://fonts.gstatic.com/">

@@ -1,10 +1,18 @@
 <!DOCTYPE html>
-<html>
-<?php
-      include "src/header/index.php";
-      include "src/pages/landing/body/index.php";
-      include "src/scripts/index.php";
-      include "src/styles/index.php";
-    ?>
+<html manifest="demo .appcache ">
+
+<head>
+  <?php
+  include "src/header/index.php";
+  include "src/scripts/index.php";
+  include "src/styles/index.php";
+  ?>
+</head>
+
+<body class="t-body" style="margin: 0px;">
+  <?php
+  include "src/pages/landing/body/index.php";
+  ?>
+</body>
 
 </html>
