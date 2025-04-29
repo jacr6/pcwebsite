@@ -1,0 +1,130 @@
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Linktree React</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+  />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
+    rel="stylesheet"
+  />
+</head>
+<body class="bg-gray-50 font-inter min-h-screen flex items-center justify-center p-4">
+  <div id="root" class="w-full max-w-sm"></div>
+
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+  <script crossorigin src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+  <script type="text/babel">
+    const { useState } = React;
+
+    function Linktree() {
+      const links = [
+        {
+          id: 1,
+          title: "Mi sitio web",
+          url: "https://misitio.com",
+          icon: "fas fa-globe",
+          bgColor: "bg-blue-600 hover:bg-blue-700",
+        },
+        {
+          id: 2,
+          title: "Instagram",
+          url: "https://instagram.com/miusuario",
+          icon: "fab fa-instagram",
+          bgColor: "bg-pink-500 hover:bg-pink-600",
+        },
+        {
+          id: 3,
+          title: "Twitter",
+          url: "https://twitter.com/miusuario",
+          icon: "fab fa-twitter",
+          bgColor: "bg-blue-400 hover:bg-blue-500",
+        },
+        {
+          id: 4,
+          title: "LinkedIn",
+          url: "https://linkedin.com/in/miusuario",
+          icon: "fab fa-linkedin-in",
+          bgColor: "bg-blue-700 hover:bg-blue-800",
+        },
+        {
+          id: 5,
+          title: "YouTube",
+          url: "https://youtube.com/c/miusuario",
+          icon: "fab fa-youtube",
+          bgColor: "bg-red-600 hover:bg-red-700",
+        },
+        {
+          id: 6,
+          title: "GitHub",
+          url: "https://github.com/miusuario",
+          icon: "fab fa-github",
+          bgColor: "bg-gray-800 hover:bg-gray-900",
+        },
+        {
+          id: 7,
+          title: "Spotify",
+          url: "https://open.spotify.com/user/miusuario",
+          icon: "fab fa-spotify",
+          bgColor: "bg-green-600 hover:bg-green-700",
+        },
+        {
+          id: 8,
+          title: "Facebook",
+          url: "https://facebook.com/miusuario",
+          icon: "fab fa-facebook-f",
+          bgColor: "bg-blue-800 hover:bg-blue-900",
+        },
+        {
+          id: 9,
+          title: "TikTok",
+          url: "https://tiktok.com/@miusuario",
+          icon: "fab fa-tiktok",
+          bgColor: "bg-black hover:bg-gray-900",
+        },
+        {
+          id: 10,
+          title: "Correo Electrónico",
+          url: "mailto:miusuario@email.com",
+          icon: "fas fa-envelope",
+          bgColor: "bg-yellow-500 hover:bg-yellow-600",
+        },
+      ];
+
+      return (
+        <div className="bg-white rounded-xl shadow-lg p-8 flex flex-col items-center">
+          <img
+            src="https://placehold.co/128x128/png?text=Foto+de+perfil+de+persona+joven+con+fondo+claro"
+            alt="Foto de perfil de persona joven con fondo claro"
+            className="w-32 h-32 rounded-full mb-6 object-cover"
+          />
+          <h1 className="text-3xl font-bold mb-1 text-gray-900">Juan Pérez</h1>
+          <p className="text-gray-600 mb-6">Desarrollador Web &amp; Diseñador</p>
+          <div className="w-full space-y-4">
+            {links.map(({ id, title, url, icon, bgColor }) => (
+              <a
+                key={id}
+                href={url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={`flex items-center justify-center space-x-3 text-white font-semibold py-3 rounded-lg transition-colors duration-300 ${bgColor}`}
+              >
+                <i className={`${icon} text-lg`}></i>
+                <span>{title}</span>
+              </a>
+            ))}
+          </div>
+        </div>
+      );
+    }
+
+    ReactDOM.createRoot(document.getElementById("root")).render(<Linktree />);
+  </script>
+</body>
+</html>
