@@ -6,8 +6,8 @@
         </a>
     </div>
     <div class="t446__right_descr" style="color:#000000;font-size:20px;font-weight:300;">
-        <a href="mailto:sales@powercloud.ws" target="_blank">
-            sales@powercloud.ws
+        <a href="mailto:sales@powercloud.services" target="_blank">
+            sales@powercloud.services
         </a>
     </div>
     <br>

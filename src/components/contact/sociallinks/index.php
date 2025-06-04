@@ -8,8 +8,8 @@
     </div>
     <div class="t446__right_descr" style="color:#ffffff;font-size:20px;font-weight:300;">
 
-        <a class="t490__linkwrapper" href="mailto:sales@powercloud.ws" target="_blank">
-            sales@powercloud.ws
+        <a class="t490__linkwrapper" href="mailto:sales@powercloud.services" target="_blank">
+            sales@powercloud.services
         </a>
     </div>
 

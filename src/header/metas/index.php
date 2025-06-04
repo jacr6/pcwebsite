@@ -3,7 +3,7 @@
 <!--metatextblock-->
 <title>Powered by the sky</title>
 <meta name="description" content="A landing page of a Powered by the sky">
-<meta property="og:url" content="http://powercloud.ws">
+<meta property="og:url" content="http://powercloud.services">
 <meta property="og:title" content="Powered by the sky">
 <meta property="og:description" content="A landing page of a Powered by the sky">
 <meta property="og:type" content="website">
